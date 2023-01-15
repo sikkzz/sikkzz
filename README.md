@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:314755,100:26a0da&height=150&section=header&text=Sikkzz&fontAlign=70&fontAlignY=30&fontSize=40&fontColor=ffffff)
 
-<a href="https://sling-blog.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<!-- <a href="https://sling-blog.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=Blogger&logoColor=white"/></a> -->
 <a href="https://www.instagram.com/sik_k_da" target="_blank"><img src="https://img.shields.io/badge/Insta-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="malito:sling0623@gmail.com"><img src="https://img.shields.io/badge/sling0623@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
