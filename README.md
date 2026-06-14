@@ -24,8 +24,8 @@ AI 기반 B2B SaaS [Blaybus](https://www.blaybus.com/)의 웹 전반을 개발 (
 | [넥스터즈 28기](https://nexters.co.kr/) | **Retoday** — 오늘의 브라우저 기록을 나만의 인사이트로 | [recap-web](https://github.com/Nexters/recap-web) |
 | [넥스터즈 27기](https://nexters.co.kr/) | **툭(Tuk)** — 단톡방은 살아있지만 모임은 사라진 사이를 위한 모임 서비스 (최우수상 🏆) | [tuk-web](https://github.com/Nexters/tuk-web) |
 | [넥스터즈 26기](https://nexters.co.kr/) | **미식(Misik)** — 영수증을 촬영하면 AI가 맛집 리뷰를 자동 생성 | [misik-web](https://github.com/Nexters/misik-web) |
-| 개인 프로젝트 | **Trailog** — 여행 사진을 지도 위에 아카이브하는 모바일 앱 (진행중) | |
-| 개인 프로젝트 | **DevGist** — 테크 블로그 글을 RSS로 모아 원문 그대로 읽는 개발 인사이트 리더 | [DevGist](https://github.com/sikkzz/DevGist) |
+| 개인 프로젝트 | **Trailog** — 여행 사진을 지도 위에 아카이브하는 모바일 앱 (진행중) | [Trailog](https://github.com/sikkzz/Trailog) |
+| 개인 프로젝트 | **DevGist** — 테크 블로그 글을 RSS로 모아 원문 그대로 읽는 개발 인사이트 리더 (진행중) | [DevGist](https://github.com/sikkzz/DevGist) |
 | 개인 프로젝트 | **Meetie** — IT 직군을 위한 온라인 스터디 모집 플랫폼 | [Meetie-front](https://github.com/Meetie-One/Meetie-front) |
 | 개인 프로젝트 | **Waggle** — 반려견 정보를 공유·소통하는 커뮤니티 🐾 | [Waggle-front](https://github.com/teamWaggle/Waggle-front) |
 | 개인 프로젝트 | **Selody** — 개인 일정 기반 그룹 일정 관리 서비스 | [Frontend](https://github.com/Selody-project/Frontend) |
